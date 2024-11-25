@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanatshares
 - 👀 I’m in coding, learning, exploring.
-- 🌱 Learning development with Java, Business Intelligence and Analytics, Networking, and more.
+- 🌱 Learning development with Java, Databases, Networking, and more.
 - 💞️ Looking to collaborate for building value projects.
 - 📫 Reach out to me via email: connect.akarim@gmail.com
 - ⚡ I am often in photography, filming, and content creation on social platforms.
